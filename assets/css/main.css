@@ -1274,7 +1274,7 @@ button {
   -ms-transition: -ms-transform 0.325s ease-in-out,
     -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-  background-image: url("../../images/bg.jpg");
+  background-image: url("../../images/pawel-czerwinski-cB-GFT7wgps-unsplash.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1792,4 +1792,14 @@ body.is-preload #footer {
 
 .need-padding {
   padding-left: 21px;
+}
+
+.project-heading {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.separator {
+  height: 2px;
+  background-color: rgb(221, 172, 162);
 }
