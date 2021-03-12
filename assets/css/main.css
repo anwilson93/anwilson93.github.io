@@ -1808,8 +1808,8 @@ body.is-preload #footer {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  border-bottom: 1px solid rgb(221, 172, 162);
-  border-top: 1px solid rgb(221, 172, 162);
+  /* border-bottom: 1px solid rgb(221, 172, 162);
+  border-top: 1px solid rgb(221, 172, 162); */
   list-style-type: none;
   height: 40px;
   align-items: center;
